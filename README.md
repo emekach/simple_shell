@@ -1,2 +1,1 @@
-# simple_shell
-Simple shell project
+To be updated later on 
